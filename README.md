@@ -1,6 +1,7 @@
 # FilePPM
 ----------------------------------
 Image PPM P3 manipulation
+(Program made for Programming Principles class)
 
 Points to consider
 * The file starts with the string P3. Although there are other variants only P3 is considered
